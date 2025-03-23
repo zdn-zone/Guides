@@ -1,0 +1,220 @@
+{
+    "trash_id": "76cb888aeae4a30497939e9afeb41836",
+    "trash_scores": {
+      "default": -10000
+    },
+  "name": "Language Not Wanted",
+  "includeCustomFormatWhenRenaming": false,
+  "specifications": [
+    {
+      "name": "Spanish",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 3,
+        "exceptLanguage": false
+      }
+    },
+    {
+      "name": "Arabic",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 26,
+        "exceptLanguage": false
+      }
+    },
+    {
+      "name": "Bosnian",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 41,
+        "exceptLanguage": false
+      }
+    },
+    {
+      "name": "Bulgarian",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 28,
+        "exceptLanguage": false
+      }
+    },
+    {
+      "name": "Catalan",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 38,
+        "exceptLanguage": false
+      }
+    },
+    {
+      "name": "Croatian",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 39,
+        "exceptLanguage": false
+      }
+    },
+    {
+      "name": "Czech",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 25,
+        "exceptLanguage": false
+      }
+    },
+    {
+      "name": "Danish",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 6,
+        "exceptLanguage": false
+      }
+    },
+    {
+      "name": "Dutch",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 7,
+        "exceptLanguage": false
+      }
+    },
+    {
+      "name": "Estonian",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 42,
+        "exceptLanguage": false
+      }
+    },
+    {
+      "name": "Finnish",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 16,
+        "exceptLanguage": false
+      }
+    },
+    {
+      "name": "Flemish",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 19,
+        "exceptLanguage": false
+      }
+    },
+    {
+      "name": "French",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 2,
+        "exceptLanguage": false
+      }
+    },
+    {
+      "name": "German",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 4,
+        "exceptLanguage": false
+      }
+    },
+    {
+      "name": "Greek",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 20,
+        "exceptLanguage": false
+      }
+    },
+    {
+      "name": "Hebrew",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 23,
+        "exceptLanguage": false
+      }
+    },
+    {
+      "name": "Hindi",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 27,
+        "exceptLanguage": false
+      }
+    },
+    {
+      "name": "Hungarian",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 22,
+        "exceptLanguage": false
+      }
+    },
+    {
+      "name": "Icelandic",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 9,
+        "exceptLanguage": false
+      }
+    },
+    {
+      "name": "Italian",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 5,
+        "exceptLanguage": false
+      }
+    },
+    {
+      "name": "Latvian",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 36,
+        "exceptLanguage": false
+      }
+    }
+  ]
+}

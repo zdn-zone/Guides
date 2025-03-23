@@ -18,5 +18,6 @@
       "fileMatch": ["docs/json/sonarr/cf/*.json"],
       "url": "./schemas/sonarr-cf.schema.json"
     }
-  ]
+  ],
+  "conventionalCommits.scopes": ["sonarr"]
 }

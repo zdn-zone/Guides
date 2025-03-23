@@ -1,0 +1,55 @@
+{
+    "trash_id": "1518ac88982dac02e9b3237cb32c5e21",
+    "trash_scores": {
+      "default": 600
+    },
+    "name": "Anime Web Tier 01",
+    "includeCustomFormatWhenRenaming": false,
+    "specifications": [
+      {
+        "name": "WEBDL",
+        "implementation": "SourceSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": 3
+        }
+      },
+      {
+        "name": "WEBRIP",
+        "implementation": "SourceSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": 4
+        }
+      },
+      {
+        "name": "flux",
+        "implementation": "ReleaseTitleSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "\\b(flux)\\b"
+        }
+      },
+      {
+        "name": "HeavenlyOppa",
+        "implementation": "ReleaseTitleSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "\\b(HeavenlyOppa)\\b"
+        }
+      },
+      {
+        "name": "Kitsune",
+        "implementation": "ReleaseTitleSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "\\b(Kitsune)\\b"
+        }
+      }
+    ]
+  }

@@ -1,0 +1,37 @@
+{
+    "trash_id": "e6d69633985ef2f925b1bb137f5e9106",
+    "trash_scores": {
+      "default": 100
+    },
+    "name": "WEB Tier Internal",
+    "includeCustomFormatWhenRenaming": false,
+    "specifications": [
+      {
+        "name": "FLUX",
+        "implementation": "ReleaseGroupSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "^(FLUX)$"
+        }
+      },
+      {
+        "name": "WEBDL",
+        "implementation": "SourceSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": 3
+        }
+      },
+      {
+        "name": "WEBRIP",
+        "implementation": "SourceSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": 4
+        }
+      }
+    ]
+  }

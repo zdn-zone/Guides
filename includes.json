@@ -1,0 +1,12 @@
+{
+    "sonarr": [
+    {
+      "template": "sonarr/includes/custom-formats/sonarr-custom-formats-anime.yml",
+      "id": "sonarr-custom-formats-anime"
+    },
+    {
+      "template": "sonarr/includes/quality-profiles/sonarr-quality-profile-anime.yml",
+      "id": "sonarr-quality-profile-anime"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+    "trash_id": "3873e64f7ff1df7805598c15821e011b",
+    "trash_scores": {
+      "default": 1600
+    },
+    "name": "Asian HQ Tier 2",
+    "includeCustomFormatWhenRenaming": false,
+    "specifications": [
+      {
+        "name": "ECLiPSE",
+        "implementation": "ReleaseTitleSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "-ECLiPSE\\b"
+        }
+      },
+      {
+        "name": "Archie",
+        "implementation": "ReleaseTitleSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "-Archie\\b"
+        }
+      },
+      {
+        "name": "WEBDL",
+        "implementation": "SourceSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": 3
+        }
+      },
+      {
+        "name": "WEBRIP",
+        "implementation": "SourceSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": 4
+        }
+      },
+      {
+        "name": "MMR",
+        "implementation": "ReleaseTitleSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "-MMR\\b"
+        }
+      },
+      {
+        "name": "JKCT",
+        "implementation": "ReleaseTitleSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "-JKCT\\b"
+        }
+      },
+      {
+        "name": "LoveBug",
+        "implementation": "ReleaseTitleSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "-LoveBug\\b"
+        }
+      },
+      {
+        "name": "Phanteam",
+        "implementation": "ReleaseTitleSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "-Phanteam\\b"
+        }
+      },
+      {
+        "name": "iTsOK",
+        "implementation": "ReleaseTitleSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "-iTsOK\\b"
+        }
+      },
+      {
+        "name": "HBO",
+        "implementation": "ReleaseTitleSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "-HBO\\b"
+        }
+      },
+      {
+        "name": "FLUX",
+        "implementation": "ReleaseTitleSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "-FLUX\\b"
+        }
+      },
+      {
+        "name": "Taengoo",
+        "implementation": "ReleaseTitleSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "-Taengoo\\b"
+        }
+      },
+      {
+        "name": "SH3LBY",
+        "implementation": "ReleaseTitleSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "-SH3LBY\\b"
+        }
+      },
+      {
+        "name": "OurTV",
+        "implementation": "ReleaseTitleSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "-OurTV\\b"
+        }
+      },
+      {
+        "name": "ZERO",
+        "implementation": "ReleaseTitleSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "-ZERO\\b"
+        }
+      },
+      {
+        "name": "MARK",
+        "implementation": "ReleaseTitleSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "-MARK\\b"
+        }
+      },
+      {
+        "name": "MrHulk",
+        "implementation": "ReleaseTitleSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "-MrHulk\\b"
+        }
+      },
+      {
+        "name": "ANDY",
+        "implementation": "ReleaseTitleSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "-ANDY\\b"
+        }
+      },
+      {
+        "name": "HHWEB",
+        "implementation": "ReleaseTitleSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "-HHWEB\\b"
+        }
+      },
+      {
+        "name": "CHDWEB",
+        "implementation": "ReleaseTitleSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "-CHDWEB\\b"
+        }
+      },
+      {
+        "name": "ADWeb",
+        "implementation": "ReleaseTitleSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "-ADWeb\\b"
+        }
+      },
+      {
+        "name": "SYNFM",
+        "implementation": "ReleaseTitleSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "-SYNFM\\b"
+        }
+      },
+      {
+        "name": "HDCTV",
+        "implementation": "ReleaseTitleSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "-HDCTV\\b"
+        }
+      },
+      {
+        "name": "HeavenlyOppa",
+        "implementation": "ReleaseTitleSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "-HeavenlyOppa\\b"
+        }
+      },
+      {
+        "name": "Wendy",
+        "implementation": "ReleaseTitleSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "-Wendy\\b"
+        }
+      }
+    ]
+  }
