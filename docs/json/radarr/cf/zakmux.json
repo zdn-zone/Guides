@@ -1,0 +1,19 @@
+{
+  "trash_id": "72099585ea516d8eac7f394ce0656a6b",
+  "trash_scores": {
+    "default": 100000
+  },
+  "name": "Zakmux",
+  "includeCustomFormatWhenRenaming": false,
+  "specifications": [
+    {
+      "name": "Zakmux",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "^(Zakmux)$"
+      }
+    }
+  ]
+}

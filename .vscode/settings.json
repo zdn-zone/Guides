@@ -19,5 +19,8 @@
       "url": "./schemas/sonarr-cf.schema.json"
     }
   ],
-  "conventionalCommits.scopes": ["sonarr"]
+  "conventionalCommits.scopes": [
+    "sonarr",
+    "radarr"
+  ]
 }

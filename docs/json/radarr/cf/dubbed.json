@@ -1,0 +1,19 @@
+{
+  "trash_id": "e27c0f9651465c263155996e9b8dcb96",
+  "trash_scores": {
+    "default": 10
+  },
+  "name": "Dubbed",
+  "includeCustomFormatWhenRenaming": true,
+  "specifications": [
+    {
+      "name": "Dubbed",
+      "implementation": "ReleaseTitleSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\bDubbed\\b"
+      }
+    }
+  ]
+}

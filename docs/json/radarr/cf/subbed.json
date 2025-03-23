@@ -1,0 +1,19 @@
+{
+  "trash_id": "23f3d874ea6456917aa331567c3df83d",
+  "trash_scores": {
+    "default": 10
+  },
+  "name": "Subbed",
+  "includeCustomFormatWhenRenaming": true,
+  "specifications": [
+    {
+      "name": "Subbed",
+      "implementation": "ReleaseTitleSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\bSubbed\\b"
+      }
+    }
+  ]
+}
