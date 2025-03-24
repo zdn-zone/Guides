@@ -1,0 +1,136 @@
+{
+    "trash_id": "af5c1de649317925562e40a4001b3ff2",
+    "trash_scores": {
+      "default": -10000
+    },
+    "name": "NORDiC",
+    "includeCustomFormatWhenRenaming": false,
+    "specifications": [
+      {
+        "name": "rapidcows",
+        "implementation": "ReleaseGroupSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "^(rapidcows)$"
+        }
+      },
+      {
+        "name": "egen",
+        "implementation": "ReleaseGroupSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "^(egen)$"
+        }
+      },
+      {
+        "name": "rtbytes",
+        "implementation": "ReleaseGroupSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "^(rtbytes)$"
+        }
+      },
+      {
+        "name": "dbytes",
+        "implementation": "ReleaseGroupSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "^(dbytes)$"
+        }
+      },
+      {
+        "name": "bandoleros",
+        "implementation": "ReleaseGroupSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "^(bandoleros)$"
+        }
+      },
+      {
+        "name": "videogod",
+        "implementation": "ReleaseGroupSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "^(videogod)$"
+        }
+      },
+      {
+        "name": "rocketraccoon",
+        "implementation": "ReleaseGroupSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "^(rocketraccoon)$"
+        }
+      },
+      {
+        "name": "r75",
+        "implementation": "ReleaseGroupSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "^(r75)$"
+        }
+      },
+      {
+        "name": "nitecru",
+        "implementation": "ReleaseGroupSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "^(nitecru)$"
+        }
+      },
+      {
+        "name": "twa",
+        "implementation": "ReleaseGroupSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "^(twa)$"
+        }
+      },
+      {
+        "name": "twaseries",
+        "implementation": "ReleaseGroupSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "^(twaseries)$"
+        }
+      },
+      {
+        "name": "dbretail",
+        "implementation": "ReleaseGroupSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "^(dbretail)$"
+        }
+      },
+      {
+        "name": "showtime",
+        "implementation": "ReleaseGroupSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "^(showtime)$"
+        }
+      },
+      {
+        "name": "NORVINE",
+        "implementation": "ReleaseGroupSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": "^(NORVINE)$"
+        }
+      }
+    ]
+  }

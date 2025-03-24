@@ -1,0 +1,30 @@
+{
+    "trash_id": "d1f56302c505b629a14fcc4bab1a89fd",
+    "trash_scores": {
+      "default": 0
+    },
+    "name": "Language Wanted",
+    "includeCustomFormatWhenRenaming": false,
+    "specifications": [
+      {
+        "name": "Original Lang",
+        "implementation": "LanguageSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": -2,
+          "exceptLanguage": false
+        }
+      },
+      {
+        "name": "English",
+        "implementation": "LanguageSpecification",
+        "negate": false,
+        "required": false,
+        "fields": {
+          "value": 1,
+          "exceptLanguage": false
+        }
+      }
+    ]
+  }
