@@ -97,15 +97,6 @@
         }
       },
       {
-        "name": "FLUX",
-        "implementation": "ReleaseTitleSpecification",
-        "negate": false,
-        "required": false,
-        "fields": {
-          "value": "-FLUX\\b"
-        }
-      },
-      {
         "name": "Taengoo",
         "implementation": "ReleaseTitleSpecification",
         "negate": false,
