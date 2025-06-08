@@ -35,6 +35,15 @@
       }
     },
     {
+      "name": "AOC",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "^(AOC)$"
+      }
+    },
+    {
       "name": "AROMA",
       "implementation": "ReleaseGroupSpecification",
       "negate": false,
@@ -320,6 +329,15 @@
       "required": false,
       "fields": {
         "value": "^(GPTHD)$"
+      }
+    },
+    {
+      "name": "HDHUB4U",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "^(HDHUB4U)$"
       }
     },
     {
